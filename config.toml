@@ -1,0 +1,9 @@
+base_url = "https://wen.tarimain.net"
+compile_sass = false
+build_search_index = false
+title = "Wen Tari Mainnet?"
+
+[markdown]
+highlight_code = false
+
+[extra]
