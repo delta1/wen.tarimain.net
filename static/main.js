@@ -42,7 +42,7 @@ function url(type) {
     {
       title: "Scaffold initial directory structure",
       number: 2,
-      created_at: "2018-12-3",
+      created_at: "2018-12-03T00:00:00Z",
       html_url: "https://github.com/tari-project/tari/pull/2",
     },
     "#first"
