@@ -8,6 +8,8 @@ Simple static site built with [zola], [spcss] and the [github api].
 
 Easy place to go to see when last the genesis block and consensus constants files were updated.
 
+[MIT License](./LICENSE)
+
 [zola]: https://getzola.org
 [spcss]: https://github.com/susam/spcss
 [github api]: https://docs.github.com/en/rest
