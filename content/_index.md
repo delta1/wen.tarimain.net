@@ -4,33 +4,45 @@ title = "Wen Tari Mainnet?"
 
 # Wen Tari Mainnet?
 
-## Soon™ - TBA
+## Soon™ - _To Be Announced_
 
-**Current Testnet:**
+### **Current Testnet:**
 
-_Dibbler ~~Weatherwax~~ ~~Stibbons~~ ~~Ridcully~~_
+<span class="pre">**Dibbler** ~~Weatherwax~~ ~~Stibbons~~ ~~Ridcully~~</span>
 
-**Latest commit changing `genesis_block`**
+### **Latest commit changing [`genesis_block`](https://github.com/tari-project/tari/blob/development/base_layer/core/src/blocks/genesis_block.rs#L73)**
+
+_When implemented for Mainnet it will include a date and time._
 
 <span id="genesis" class="loading">-</span>
 
-**Latest commit changing `consensus_constants`:**
+### **Latest commit changing [`consensus_constants`](https://github.com/tari-project/tari/blob/development/base_layer/core/src/consensus/consensus_constants.rs#L467)**
+
+_Determines the Proof of Work algorithms, target block times, emission schedule and more._
 
 <span id="consensus" class="loading">-</span>
 
-**Latest PR:**
+### **Latest PR**
 
 <span id="latest" class="loading">-</span>
 
-**First PR:**
+### **First PR**
 
-<span class="pre">3 Dec 2018 - [#2](https://github.com/tari-project/tari/pull/2/files) - scaffold initial directory structure</span>
+<span id="first" class="loading">-</span>
 
-Links:
+### **Links**
+
+<span class="pre">
 
 - [tari.com/updates](https://www.tari.com/updates/)
 - [github](https://github.com/tari-project)
 - [telegram](https://t.me/tariproject)
 - [discord](https://discord.gg/q3Sfzb8S2V)
-- [`genesis_block.rs`](https://github.com/tari-project/tari/blob/development/base_layer/core/src/blocks/genesis_block.rs#L73)
-- [`consensus_constants.rs`](https://github.com/tari-project/tari/blob/development/base_layer/core/src/consensus/consensus_constants.rs#L467)
+- [genesis_block](https://github.com/tari-project/tari/blob/development/base_layer/core/src/blocks/genesis_block.rs#L73)
+- [consensus_constants](https://github.com/tari-project/tari/blob/development/base_layer/core/src/consensus/consensus_constants.rs#L467)
+
+</span>
+
+### **Source**
+
+[wen.tarimain.net](https://github.com/delta1/wen.tarimain.net)
