@@ -29,7 +29,7 @@ function pull(j, id) {
   const el = document.querySelector(id);
   const d = new Date(j.created_at);
   const dt = `${d.getDate()} ${months[d.getMonth()]} ${d.getFullYear()}`;
-  const v = `<span class="pre">${dt} <br>${j.title} (<a href="${j.url}">#${j.number}</a>)</span>`;
+  const v = `<span class="pre">${dt} <br>${j.title} (<a href="${j.html_url}">#${j.number}</a>)</span>`;
   el.innerHTML = v;
   el.removeAttribute("class");
 }
@@ -43,7 +43,7 @@ function url(type) {
       title: "Scaffold initial directory structure",
       number: 2,
       created_at: "2018-12-3",
-      url: "https://github.com/tari-project/tari/pull/2",
+      html_url: "https://github.com/tari-project/tari/pull/2",
     },
     "#first"
   );
