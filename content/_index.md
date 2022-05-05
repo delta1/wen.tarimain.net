@@ -22,11 +22,11 @@ _Determines the Proof of Work algorithms, target block times, emission schedule 
 
 <span id="consensus" class="loading">-</span>
 
-### **Latest PR**
+### **Latest pull request**
 
 <span id="latest" class="loading">-</span>
 
-### **First PR**
+### **First pull request**
 
 <span id="first" class="loading">-</span>
 
@@ -35,7 +35,7 @@ _Determines the Proof of Work algorithms, target block times, emission schedule 
 <span class="pre">
 
 - [tari.com/updates](https://www.tari.com/updates/)
-- [github](https://github.com/tari-project)
+- [github/tari-project](https://github.com/tari-project)
 - [telegram](https://t.me/tariproject)
 - [discord](https://discord.gg/q3Sfzb8S2V)
 - [genesis_block](https://github.com/tari-project/tari/blob/development/base_layer/core/src/blocks/genesis_block.rs#L73)
