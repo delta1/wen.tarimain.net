@@ -12,7 +12,7 @@ title = "Wen Tari Mainnet?"
 
 ### **Latest commit changing [`genesis_block`](https://github.com/tari-project/tari/blob/development/base_layer/core/src/blocks/genesis_block.rs#L73)**
 
-_When implemented for Mainnet it will include a date and time._
+_When the genesis block is implemented for Mainnet it will include a date and time._
 
 <span id="genesis" class="loading">-</span>
 
@@ -43,6 +43,6 @@ _Determines the Proof of Work algorithms, target block times, emission schedule 
 
 </span>
 
-### **Source**
+### **Website Source Code**
 
-[wen.tarimain.net](https://github.com/delta1/wen.tarimain.net)
+[github.com/delta1/wen.tarimain.net](https://github.com/delta1/wen.tarimain.net)
